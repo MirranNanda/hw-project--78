@@ -1,0 +1,24 @@
+  body{
+      text-align: center;
+      background-image: linear-gradient(blue,orange,green);
+  }
+  #family_img{
+      width: 290px;
+  }
+  button{
+      font-size: 25px;
+      background-color: aquamarine;
+      border-radius: 20%;
+      color: bisque;
+  }
+  h1{
+      font-size: 40px;
+      color: chocolate;
+      text-decoration: underline;
+   }
+   h3{
+       font-size: 30px;
+       color: crimson;
+       font-weight: bold;
+       text-decoration: underline;
+   }
